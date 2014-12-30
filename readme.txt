@@ -8,11 +8,17 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-WooCommerce Export Orders enables you to export your Order Items in Excel or PDF
+WooCommerce Export Orders
 
 == Description ==
 
-Woocommerce Export Order enables store managers to export the itemized list of the products for those orders which are marked Completed. The report can be exported in CSV, Excel and PDF format.
+Woocommerce Export Order enables store managers to export the itemized list of the products for those orders which are marked Completed. 
+
+The report can be exported in CSV, Excel and PDF format.
+
+Reports can be copied and pasted elsewhere along with headers and also directly printed.
+
+For any suggestions and customizations please drop in a mail at info@imaginate-solutions.com
 
 == Installation ==
 
